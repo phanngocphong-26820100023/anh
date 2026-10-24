@@ -1,4 +1,15 @@
 # anh
+Bài 3:
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/aba0cf13-6d09-40fc-8fb8-a56c04e3bca5" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/17a2971b-eda4-4120-830e-9f2cf561bb86" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2f08f31d-287d-4174-8642-28604d227019" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3f739af1-a8de-47bf-aaf5-00e60e854bdc" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bc4a58a2-45ab-4f6e-9af0-61430dcddad3" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5feb7e2f-69ab-460f-8398-d329aba77065" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/26f10b12-2896-4beb-bfc8-d496b3845553" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ece4ded3-720b-47b5-b6ef-037cd53e915f" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/1ee7bb43-60c3-4bfc-b1b3-20c76fcfeb89" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/d6f77e93-f3b5-445e-bab1-fcbd42a0e68c" />
 Bài 2:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/83cf20c8-beb8-435b-a938-e3200f7d9f1a" />
 
@@ -60,3 +71,4 @@ Bài 2:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8857d01e-fbe6-4242-8077-4e83ee18d4b6" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/918a065d-1be2-4776-841e-0f904fe289ca" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/081b5c08-2458-4c0e-81b4-41fc0560e540" />
+
