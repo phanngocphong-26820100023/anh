@@ -66,6 +66,10 @@ Bài 2:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c60400ab-3707-45ef-9002-531ae4bd1cec" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/04dea4d8-ed1b-45eb-a7af-21d9b1ff8bee" />
+Bài 1:
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/083ca352-edfc-4e0a-b0ed-7c96e22c64e4" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/024655f6-04ad-43fb-a964-948554e0f3cf" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/725e21eb-9cfb-43ab-b583-1e70a336ee95" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4a85c039-88e9-4716-b4fc-a0fdc4811fe3" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8857d01e-fbe6-4242-8077-4e83ee18d4b6" />
